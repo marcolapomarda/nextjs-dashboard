@@ -1,4 +1,3 @@
-import { lusitana } from '@/app/ui/fonts';
 import Table from '@/app/ui/customers/table';
 import { fetchCustomersTable } from '@/app/lib/data';
 
